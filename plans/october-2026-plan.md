@@ -155,3 +155,32 @@ Problem of the Week ideas: Week 3 Starting and charging system (battery, alterna
 - No DIY high-pressure fuel work, no flammable leak sprays, never open a hot cooling system.
 - No invented prices, findings, or guarantees. Exact maintenance intervals require the exact vehicle schedule.
 - AC: refrigerant handling requires certified recovery equipment; do not suggest venting refrigerant.
+
+## Week 3 draft (written Oct 12; next run researches and finalizes before building)
+
+Topic of the Day (same style, information only):
+
+**15. Slipping shifts** — On-screen: Engine revs, car does not go. Voiceover: "If the engine revs up but the car does not speed up to match, the transmission may be slipping. Low or burnt fluid is a common first cause. Worn clutches inside, a failing solenoid, or a software issue can do the same thing. Do not keep driving hard on it. Fluid level and condition, and a code scan, come before anyone talks about a rebuild."
+
+**16. Battery light while driving** — On-screen: Battery light ≠ bad battery. Voiceover: "A battery light while you are driving usually means the charging system is not keeping up, not that the battery itself is bad. A failing alternator, a loose or broken belt, or a bad connection are common causes. The car is running on stored battery power and can die soon. Charging voltage should be tested with the engine running before parts are replaced."
+
+**17. ABS light on** — On-screen: ABS light: brakes still work. Voiceover: "When the ABS light comes on, your normal brakes usually still work, but the anti-lock system is turned off. A dirty or failed wheel speed sensor, damaged wiring, or low brake fluid are common causes. If the red brake warning light is also on, that is more serious. A scan reads which wheel or circuit set the light."
+
+**18. TPMS light on** — On-screen: Tire light: check pressure first. Voiceover: "A solid tire pressure light usually means one or more tires are low. Cold mornings can trigger it because air pressure drops when it is cold. Set the pressure to the number on the door jamb sticker, not the tire sidewall. If the light flashes and then stays on, a sensor has a problem, often a dead sensor battery."
+
+**19. Humming that grows with speed** — On-screen: Hum gets louder with speed. Voiceover: "A humming or growling noise that gets louder as you speed up can be a wheel bearing. It often changes when you turn one way or the other. Uneven tire wear can make a similar sound, so tires should be checked too. A worn bearing can get worse over time, so it is worth inspecting before it fails."
+
+**20. Clicking when turning** — On-screen: Click on turns = CV joint. Voiceover: "A clicking or popping noise when you turn sharply, especially while accelerating, often points to a worn outer CV joint. The usual start is a torn rubber boot that lets grease out and dirt in. Catch a torn boot early and the fix is smaller. Once it clicks, the axle is usually replaced."
+
+**21. Smoke color** — On-screen: Smoke color tells you why. Voiceover: "Blue or gray smoke usually means the engine is burning oil. Thick white smoke that does not clear can mean coolant is burning. Black smoke usually means too much fuel. A little white vapor on a cold morning is normal and goes away. Color and when it happens point to the system, and a test confirms it."
+
+Problem of the Week 3: Starting and charging system
+1. How the battery, starter, and alternator work together.
+2. Testing a battery: load test versus a voltage reading.
+3. Alternator warning signs: battery light, dim lights, whining.
+4. Parasitic drain: why a car dies after sitting.
+5. Starter warning signs: single click, grinding, slow crank on a good battery.
+6. Cables and grounds: the overlooked cause.
+7. Jump-starting safely and when a jump will not help.
+
+Week 4 Problem of the Week stays Transmission; Topic of the Day ideas left: soft brake pedal, whining power steering, check engine light after getting gas, burning oil smell.
