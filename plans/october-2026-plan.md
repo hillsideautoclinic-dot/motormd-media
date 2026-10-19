@@ -184,3 +184,36 @@ Problem of the Week 3: Starting and charging system
 7. Jump-starting safely and when a jump will not help.
 
 Week 4 Problem of the Week stays Transmission; Topic of the Day ideas left: soft brake pedal, whining power steering, check engine light after getting gas, burning oil smell.
+
+## Week 3 status (built Oct 19)
+
+Built and scheduled for Oct 29 - Nov 4: Topic of the Day 15-21, Starting and Charging Problem of the Week 1-7, and 7 Quick Takes. 21 TikTok + 3 YouTube Shorts (Battery light, Smoke color, Jump-starting safely). Media: vid/2026-10-29.
+
+## Week 4 draft (written Oct 19; next run fact-checks and finalizes before building)
+
+Topic of the Day (same style, information only):
+
+**22. Soft brake pedal** — On-screen: Soft pedal? Check this first. Voiceover: "If the brake pedal feels soft or sinks closer to the floor, air in the lines, low fluid from a leak, or worn pads are common causes. A pedal that slowly sinks while you hold it can point to the master cylinder. Brakes are a safety system, so do not wait on this one. Fluid level and a leak check come first."
+
+**23. Whining power steering** — On-screen: Whine when you turn the wheel. Voiceover: "A whine that gets louder when you turn the steering wheel often means the power steering fluid is low. A leak, a worn pump, or a slipping belt can do the same thing. Many newer cars use electric steering with no fluid at all, so the cause can be different. Checking for leaks and the fluid level comes first."
+
+**24. Check engine light after getting gas** — On-screen: Light after fill-up? Check the cap. Voiceover: "If the check engine light comes on a day or two after you fill up, a loose or worn gas cap is a common cause. The car tests its fuel vapor system and finds a leak. Tighten the cap until it clicks. The light may take a few drives to go off. If it stays on, a scan reads the exact code."
+
+**25. Burning oil smell** — On-screen: Burning oil smell? Look for drips. Voiceover: "A burning oil smell after driving often means oil is leaking onto hot engine or exhaust parts. A valve cover gasket or an oil filter that was not sealed right are common sources. Spilled oil after an oil change can smell for a day and then stop. If the smell keeps coming back, the leak should be found before it gets worse."
+
+**26. Headlights dim or yellow** — On-screen: Cloudy lenses cut your light. Voiceover: "Yellow, cloudy headlight lenses can block a lot of light, even with good bulbs. Sun damage breaks down the clear coating over time. Restoring or replacing the lenses can bring the light back. Dim headlights that flicker are different and can point to the charging system or a bad connection."
+
+**27. Wipers streaking** — On-screen: Streaks? Rubber is worn. Voiceover: "Streaks, skipping, or chattering wipers usually mean the rubber blades are worn or hardened from sun and heat. A dirty windshield can cause the same thing, so clean the glass first. Many drivers replace blades every six to twelve months. Clear vision in the rain is a safety item, not a cosmetic one."
+
+**28. Pulling to one side** — On-screen: Car pulls? Start with the tires. Voiceover: "If your car drifts to one side on a straight road, uneven tire pressure is the first thing to check. Wheel alignment, a worn tire, or a sticking brake can also cause a pull. If it only pulls when you brake, the brakes are the likely cause. Tire pressure first, then an alignment check."
+
+Problem of the Week 4: Transmission
+1. What transmission fluid does and why it wears out.
+2. Checking fluid color and smell: red, brown, burnt.
+3. Slipping, flaring, and delayed engagement explained.
+4. Harsh or late shifts: solenoids and software.
+5. Leaks: where transmission fluid shows up.
+6. CVT transmissions: how they feel different and common complaints.
+7. Service versus rebuild: what testing comes first.
+
+Week 5 Problem of the Week idea: Suspension and steering. Topic of the Day ideas left: car shakes at idle, sweet smell inside the car, battery corrosion, overdue oil change warning signs, check engine light flashing, key fob not working, foggy windows that will not clear.
