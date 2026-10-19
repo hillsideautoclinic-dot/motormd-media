@@ -1,0 +1,328 @@
+[
+ {
+  "id": "t15",
+  "series": "tod",
+  "title": "Revs up, car won't go",
+  "scenes": [
+   "Car tachometer needle jumping high while the speedometer stays low, dashboard close-up at night, no readable words, realistic",
+   "Technician holding a transmission dipstick showing dark brown burnt fluid on a white shop towel, realistic shop lighting"
+  ],
+  "vo": "If the engine revs up but the car does not speed up to match, the transmission may be slipping. Low or burnt fluid is a common first cause. Worn clutches inside, a failing solenoid, or a software issue can do the same thing. Do not keep driving hard on it. Fluid level and condition, and a code scan, come before anyone talks about a rebuild.",
+  "refs": [
+   "https://www.kkrichardson.com/kwik-blog/slipping-transmission-symptoms/",
+   "https://jerry.ai/car-repair/causes-transmission-slipping/"
+  ],
+  "sentences": [
+   "If the engine revs up but the car does not speed up to match, the transmission may be slipping.",
+   "Low or burnt fluid is a common first cause.",
+   "Worn clutches inside, a failing solenoid, or a software issue can do the same thing.",
+   "Do not keep driving hard on it.",
+   "Fluid level and condition, and a code scan, come before anyone talks about a rebuild."
+  ],
+  "caption": "Engine revs up but the car will not go faster? The transmission may be slipping. Low or burnt fluid is a common first cause. Check fluid and scan for codes before talking about a rebuild. Educational illustration.\n\nTechnical references:\nhttps://www.kkrichardson.com/kwik-blog/slipping-transmission-symptoms/\nhttps://jerry.ai/car-repair/causes-transmission-slipping/\n\n#MotorMD #CarCare #CarMaintenance #CarRepair",
+  "quick_caption": "Quick take: Engine revs up but the car will not go faster? The transmission may be slipping. Low or burnt fluid is a common first cause. Check fluid and scan for codes before talking about a rebuild. Educational illustration.\n\n#MotorMD #CarCare #CarMaintenance #CarRepair"
+ },
+ {
+  "id": "t16",
+  "series": "tod",
+  "title": "Battery light: check charging",
+  "scenes": [
+   "Glowing red battery-shaped warning light on a car dashboard while driving at dusk, no readable words, realistic close-up",
+   "Car engine bay close-up of an alternator and serpentine belt, realistic shop lighting"
+  ],
+  "vo": "A battery light while you are driving usually means the charging system is not keeping up, not that the battery itself is bad. A failing alternator, a loose or broken belt, or a bad connection are common causes. The car is running on stored battery power and can die soon. Charging voltage should be tested with the engine running before parts are replaced.",
+  "refs": [
+   "https://autocipher.net/battery-light-on-while-driving/",
+   "https://www.motorlogic.net/warning-lights/battery-light"
+  ],
+  "sentences": [
+   "A battery light while you are driving usually means the charging system is not keeping up, not that the battery itself is bad.",
+   "A failing alternator, a loose or broken belt, or a bad connection are common causes.",
+   "The car is running on stored battery power and can die soon.",
+   "Charging voltage should be tested with the engine running before parts are replaced."
+  ],
+  "caption": "Battery light on while driving? It usually means the charging system is not keeping up, not a bad battery. Alternator, belt, or a bad connection are common causes. The car can die soon. Educational illustration.\n\nTechnical references:\nhttps://autocipher.net/battery-light-on-while-driving/\nhttps://www.motorlogic.net/warning-lights/battery-light\n\n#MotorMD #CarCare #CarMaintenance #CarRepair",
+  "quick_caption": "Quick take: Battery light on while driving? It usually means the charging system is not keeping up, not a bad battery. Alternator, belt, or a bad connection are common causes. The car can die soon. Educational illustration.\n\n#MotorMD #CarCare #CarMaintenance #CarRepair"
+ },
+ {
+  "id": "t17",
+  "series": "tod",
+  "title": "ABS light: brakes still work",
+  "scenes": [
+   "Amber anti-lock brake warning light glowing on a car dashboard, no readable words, realistic close-up",
+   "Close-up of a wheel speed sensor and its wire near a brake rotor and hub on a car on a lift, realistic shop lighting"
+  ],
+  "vo": "When the ABS light comes on, your normal brakes usually still work, but the anti-lock system is turned off. A dirty or failed wheel speed sensor, damaged wiring, or low brake fluid are common causes. If the red brake warning light is also on, that is more serious. A scan reads which wheel or circuit set the light.",
+  "refs": [
+   "https://oilandmiles.com/articles/abs-sensor",
+   "https://yourcargarage.co.uk/car-advice/why-is-my-abs-light-on"
+  ],
+  "sentences": [
+   "When the ABS light comes on, your normal brakes usually still work, but the anti-lock system is turned off.",
+   "A dirty or failed wheel speed sensor, damaged wiring, or low brake fluid are common causes.",
+   "If the red brake warning light is also on, that is more serious.",
+   "A scan reads which wheel or circuit set the light."
+  ],
+  "caption": "ABS light on? Normal brakes usually still work, but anti-lock is off. A wheel speed sensor, wiring, or low brake fluid are common causes. Red brake light too? That is more serious. Educational illustration.\n\nTechnical references:\nhttps://oilandmiles.com/articles/abs-sensor\nhttps://yourcargarage.co.uk/car-advice/why-is-my-abs-light-on\n\n#MotorMD #CarCare #CarMaintenance #CarRepair",
+  "quick_caption": "Quick take: ABS light on? Normal brakes usually still work, but anti-lock is off. A wheel speed sensor, wiring, or low brake fluid are common causes. Red brake light too? That is more serious. Educational illustration.\n\n#MotorMD #CarCare #CarMaintenance #CarRepair"
+ },
+ {
+  "id": "t18",
+  "series": "tod",
+  "title": "Tire light: check pressure first",
+  "scenes": [
+   "Amber tire pressure warning light glowing on a car dashboard on a cold frosty morning, no readable words, realistic close-up",
+   "Hand pressing a tire pressure gauge onto a car tire valve stem, realistic close-up, daylight"
+  ],
+  "vo": "A solid tire pressure light usually means one or more tires are low. Cold mornings can trigger it because air pressure drops when it is cold. Set the pressure to the number on the door jamb sticker, not the tire sidewall. If the light flashes and then stays on, a sensor has a problem, often a dead sensor battery.",
+  "refs": [
+   "https://www.cbac.com/media-center/blog/2026/august/tpms-light-on-heres-what-it-means-and-what-to-do/",
+   "https://www.michelinman.com/auto/auto-tips-and-advice/driving-tips/prepare-car-winter"
+  ],
+  "sentences": [
+   "A solid tire pressure light usually means one or more tires are low.",
+   "Cold mornings can trigger it because air pressure drops when it is cold.",
+   "Set the pressure to the number on the door jamb sticker, not the tire sidewall.",
+   "If the light flashes and then stays on, a sensor has a problem, often a dead sensor battery."
+  ],
+  "caption": "Solid tire light? Check pressure first, cold mornings drop it. Use the door jamb number, not the sidewall. Flashes then stays on? A sensor has a problem, often a dead sensor battery. Educational illustration.\n\nTechnical references:\nhttps://www.cbac.com/media-center/blog/2026/august/tpms-light-on-heres-what-it-means-and-what-to-do/\nhttps://www.michelinman.com/auto/auto-tips-and-advice/driving-tips/prepare-car-winter\n\n#MotorMD #CarCare #CarMaintenance #CarRepair",
+  "quick_caption": "Quick take: Solid tire light? Check pressure first, cold mornings drop it. Use the door jamb number, not the sidewall. Flashes then stays on? A sensor has a problem, often a dead sensor battery. Educational illustration.\n\n#MotorMD #CarCare #CarMaintenance #CarRepair"
+ },
+ {
+  "id": "t19",
+  "series": "tod",
+  "title": "Hum gets louder with speed",
+  "scenes": [
+   "Car driving on a highway at speed, low angle view of the front wheel, slight motion blur, realistic daylight",
+   "Worn car wheel hub bearing assembly removed and sitting on a workbench, realistic shop lighting, macro"
+  ],
+  "vo": "A humming or growling noise that gets louder as you speed up can be a wheel bearing. It often changes when you turn one way or the other. Uneven tire wear can make a similar sound, so tires should be checked too. A worn bearing can get worse over time, so it is worth inspecting before it fails.",
+  "refs": [
+   "https://vehicleruns.com/troubleshooting/wheel-bearing-humming-noise/",
+   "https://www.kbb.com/car-advice/how-do-i-know-if-i-need-new-wheel-bearings/"
+  ],
+  "sentences": [
+   "A humming or growling noise that gets louder as you speed up can be a wheel bearing.",
+   "It often changes when you turn one way or the other.",
+   "Uneven tire wear can make a similar sound, so tires should be checked too.",
+   "A worn bearing can get worse over time, so it is worth inspecting before it fails."
+  ],
+  "caption": "Humming that gets louder with speed? It can be a wheel bearing, and it often changes when you turn. Uneven tire wear sounds similar, so check tires too. Educational illustration.\n\nTechnical references:\nhttps://vehicleruns.com/troubleshooting/wheel-bearing-humming-noise/\nhttps://www.kbb.com/car-advice/how-do-i-know-if-i-need-new-wheel-bearings/\n\n#MotorMD #CarCare #CarMaintenance #CarRepair",
+  "quick_caption": "Quick take: Humming that gets louder with speed? It can be a wheel bearing, and it often changes when you turn. Uneven tire wear sounds similar, so check tires too. Educational illustration.\n\n#MotorMD #CarCare #CarMaintenance #CarRepair"
+ },
+ {
+  "id": "t20",
+  "series": "tod",
+  "title": "Click on turns = CV joint",
+  "scenes": [
+   "Car making a sharp turn in an empty parking lot, front wheel turned fully, realistic daylight",
+   "Close-up of a torn rubber CV axle boot with grease sprayed around the inside of the wheel area, car on a lift, realistic"
+  ],
+  "vo": "A clicking or popping noise when you turn sharply, especially while accelerating, often points to a worn outer CV joint. The usual start is a torn rubber boot that lets grease out and dirt in. Catch a torn boot early and the fix is smaller. Once it clicks, the axle is usually replaced.",
+  "refs": [
+   "https://www.alternativecarcare.com/general/cv-axle-noise/",
+   "https://www.autotrainingcentre.com/blog/bad-cv-axle-symptoms-clicking-vibration/"
+  ],
+  "sentences": [
+   "A clicking or popping noise when you turn sharply, especially while accelerating, often points to a worn outer CV joint.",
+   "The usual start is a torn rubber boot that lets grease out and dirt in.",
+   "Catch a torn boot early and the fix is smaller.",
+   "Once it clicks, the axle is usually replaced."
+  ],
+  "caption": "Clicking when you turn sharply? Often a worn outer CV joint. It usually starts with a torn boot. Catch the boot early and the fix is smaller. Educational illustration.\n\nTechnical references:\nhttps://www.alternativecarcare.com/general/cv-axle-noise/\nhttps://www.autotrainingcentre.com/blog/bad-cv-axle-symptoms-clicking-vibration/\n\n#MotorMD #CarCare #CarMaintenance #CarRepair",
+  "quick_caption": "Quick take: Clicking when you turn sharply? Often a worn outer CV joint. It usually starts with a torn boot. Catch the boot early and the fix is smaller. Educational illustration.\n\n#MotorMD #CarCare #CarMaintenance #CarRepair"
+ },
+ {
+  "id": "t21",
+  "series": "tod",
+  "title": "Smoke color tells you why",
+  "scenes": [
+   "Car tailpipe with light blue-gray smoke coming out, parked on a street, realistic close-up",
+   "Car tailpipe with thick white smoke coming out on a cool morning, realistic close-up"
+  ],
+  "vo": "Blue or gray smoke usually means the engine is burning oil. Thick white smoke that does not clear can mean coolant is burning. Black smoke usually means too much fuel. A little white vapor on a cold morning is normal and goes away. Color and when it happens point to the system, and a test confirms it.",
+  "refs": [
+   "https://www.autozone.com/diy/exhaust/smoke-from-exhaust",
+   "https://fastlanegroup.co.uk/exhaust-smoke-colours/"
+  ],
+  "sentences": [
+   "Blue or gray smoke usually means the engine is burning oil.",
+   "Thick white smoke that does not clear can mean coolant is burning.",
+   "Black smoke usually means too much fuel.",
+   "A little white vapor on a cold morning is normal and goes away.",
+   "Color and when it happens point to the system, and a test confirms it."
+  ],
+  "caption": "Blue or gray smoke: burning oil. Thick white that does not clear: possibly coolant. Black: too much fuel. Light vapor on a cold morning is normal. Educational illustration.\n\nTechnical references:\nhttps://www.autozone.com/diy/exhaust/smoke-from-exhaust\nhttps://fastlanegroup.co.uk/exhaust-smoke-colours/\n\n#MotorMD #CarCare #CarMaintenance #CarRepair",
+  "quick_caption": "Quick take: Blue or gray smoke: burning oil. Thick white that does not clear: possibly coolant. Black: too much fuel. Light vapor on a cold morning is normal. Educational illustration.\n\n#MotorMD #CarCare #CarMaintenance #CarRepair"
+ },
+ {
+  "id": "s1",
+  "series": "pow",
+  "title": "Three parts, one system",
+  "scenes": [
+   "Car engine bay with the battery, starter area and alternator visible, open hood, realistic shop lighting",
+   "Car battery and jumper-style cable terminals close-up under an open hood, realistic"
+  ],
+  "vo": "Your starting and charging system has three main parts. The battery stores power and gives the starter a big burst to crank the engine. Once the engine is running, the alternator takes over. It powers the lights and electronics and recharges the battery. When any one part fails, the symptoms can look the same. That is why all three should be tested together, not guessed at.",
+  "refs": [
+   "https://www.brakeandfrontend.com/starting-charging-system-diagnosis-fixing-faults-the-first-time-eliminates-comebacks-returns/",
+   "https://www.autozone.com/diy/battery/bad-battery-vs-bad-alternator"
+  ],
+  "sentences": [
+   "Your starting and charging system has three main parts.",
+   "The battery stores power and gives the starter a big burst to crank the engine.",
+   "Once the engine is running, the alternator takes over.",
+   "It powers the lights and electronics and recharges the battery.",
+   "When any one part fails, the symptoms can look the same.",
+   "That is why all three should be tested together, not guessed at."
+  ],
+  "caption": "Problem of the Week: Starting and charging, part 1. Battery, starter, and alternator work as one system, and a failure in any one can look the same. Test all three together. Educational illustration.\n\nTechnical references:\nhttps://www.brakeandfrontend.com/starting-charging-system-diagnosis-fixing-faults-the-first-time-eliminates-comebacks-returns/\nhttps://www.autozone.com/diy/battery/bad-battery-vs-bad-alternator\n\n#MotorMD #CarBattery #CarCare #CarMaintenance",
+  "quick_caption": null,
+  "ep": 1
+ },
+ {
+  "id": "s2",
+  "series": "pow",
+  "title": "Voltage is not a battery test",
+  "scenes": [
+   "Digital multimeter probes on a car battery terminals, display blurred, realistic close-up, shop lighting",
+   "Handheld battery load tester clamped onto a car battery under the hood, realistic shop lighting, no readable words"
+  ],
+  "vo": "A voltage reading only tells you the battery's state of charge. A fully charged battery rests at about twelve point six volts. But a weak battery can still show good voltage and then fail when it has to crank. A load test or a conductance test checks if it can actually deliver power. Charge the battery first, then test it. A good reading at rest is not a pass.",
+  "refs": [
+   "https://www.motorlogic.net/car-problems/car-battery-keeps-dying",
+   "https://automotivegearz.com/car-battery-dies-after-sitting/"
+  ],
+  "sentences": [
+   "A voltage reading only tells you the battery's state of charge.",
+   "A fully charged battery rests at about twelve point six volts.",
+   "But a weak battery can still show good voltage and then fail when it has to crank.",
+   "A load test or a conductance test checks if it can actually deliver power.",
+   "Charge the battery first, then test it.",
+   "A good reading at rest is not a pass."
+  ],
+  "caption": "Problem of the Week: Starting and charging, part 2. Voltage shows state of charge, about 12.6 volts when full. It does not prove the battery can crank. A load or conductance test does. Educational illustration.\n\nTechnical references:\nhttps://www.motorlogic.net/car-problems/car-battery-keeps-dying\nhttps://automotivegearz.com/car-battery-dies-after-sitting/\n\n#MotorMD #CarBattery #CarCare #CarMaintenance",
+  "quick_caption": null,
+  "ep": 2
+ },
+ {
+  "id": "s3",
+  "series": "pow",
+  "title": "Alternator warning signs",
+  "scenes": [
+   "Car headlights glowing dim and yellowish at night while parked, realistic",
+   "Close-up of a car alternator with its pulley and belt in an engine bay, realistic shop lighting"
+  ],
+  "vo": "A failing alternator often gives warnings first. A battery light on the dash, lights that dim at idle, or a whining noise from the front of the engine are common signs. A car that dies while driving is another. With the engine running, a working system usually reads about thirteen and a half to fourteen and a half volts at the battery. Lower than that, the battery is not being recharged.",
+  "refs": [
+   "https://www.brakeandfrontend.com/starting-charging-system-diagnosis-fixing-faults-the-first-time-eliminates-comebacks-returns/",
+   "https://www.autozone.com/diy/battery/bad-battery-vs-bad-alternator"
+  ],
+  "sentences": [
+   "A failing alternator often gives warnings first.",
+   "A battery light on the dash, lights that dim at idle, or a whining noise from the front of the engine are common signs.",
+   "A car that dies while driving is another.",
+   "With the engine running, a working system usually reads about thirteen and a half to fourteen and a half volts at the battery.",
+   "Lower than that, the battery is not being recharged."
+  ],
+  "caption": "Problem of the Week: Starting and charging, part 3. Battery light, dim lights at idle, whining, or dying while driving can point to the alternator. Running voltage is usually about 13.5 to 14.5 volts. Educational illustration.\n\nTechnical references:\nhttps://www.brakeandfrontend.com/starting-charging-system-diagnosis-fixing-faults-the-first-time-eliminates-comebacks-returns/\nhttps://www.autozone.com/diy/battery/bad-battery-vs-bad-alternator\n\n#MotorMD #CarBattery #CarCare #CarMaintenance",
+  "quick_caption": null,
+  "ep": 3
+ },
+ {
+  "id": "s4",
+  "series": "pow",
+  "title": "Dies after sitting? Drain",
+  "scenes": [
+   "Car parked in a driveway at early morning with a slightly open glove box light glowing inside, realistic",
+   "Technician checking a car fuse box with a multimeter, fuses visible, realistic close-up, no readable words"
+  ],
+  "vo": "If your car starts fine but dies after sitting a few days, something may be drawing power with the key off. That is called a parasitic drain. A glove box light, an aftermarket stereo, or a module that never goes to sleep are common causes. The test is done with the doors closed, after the car sits so the modules can shut down. Then each circuit is checked to find the drain.",
+  "refs": [
+   "https://www.alldata.com/diy-us/en/diy-tips/parasitic-draw-test",
+   "https://www.batterytender.com/blogs/battery-tender-blog/parasitic-battery-drain-how-to-find-and-fix-it"
+  ],
+  "sentences": [
+   "If your car starts fine but dies after sitting a few days, something may be drawing power with the key off.",
+   "That is called a parasitic drain.",
+   "A glove box light, an aftermarket stereo, or a module that never goes to sleep are common causes.",
+   "The test is done with the doors closed, after the car sits so the modules can shut down.",
+   "Then each circuit is checked to find the drain."
+  ],
+  "caption": "Problem of the Week: Starting and charging, part 4. Starts fine but dies after sitting? Something may be drawing power with the key off. That is a parasitic drain, and each circuit is tested to find it. Educational illustration.\n\nTechnical references:\nhttps://www.alldata.com/diy-us/en/diy-tips/parasitic-draw-test\nhttps://www.batterytender.com/blogs/battery-tender-blog/parasitic-battery-drain-how-to-find-and-fix-it\n\n#MotorMD #CarBattery #CarCare #CarMaintenance",
+  "quick_caption": null,
+  "ep": 4
+ },
+ {
+  "id": "s5",
+  "series": "pow",
+  "title": "Starter warning signs",
+  "scenes": [
+   "Close-up of a car starter motor mounted on an engine seen from below, realistic shop lighting",
+   "Driver's hand turning a car key in the ignition, dashboard dim, realistic close-up"
+  ],
+  "vo": "When the battery is charged but the engine cranks slowly, clicks once, or makes a grinding sound, the starter may be failing. A single click can mean power is reaching the starter but it is not turning. Grinding can mean the starter gear is not meeting the engine correctly. But corroded cables or a bad ground can cause the same symptoms. Test the battery and cables before replacing a starter.",
+  "refs": [
+   "https://vehicleruns.com/maintenance-repair/starter-motor/symptoms/",
+   "https://www.carparts.com/blog/how-to-fix-a-starter-diagnose-repair-and-replace-it-right-quickref/"
+  ],
+  "sentences": [
+   "When the battery is charged but the engine cranks slowly, clicks once, or makes a grinding sound, the starter may be failing.",
+   "A single click can mean power is reaching the starter but it is not turning.",
+   "Grinding can mean the starter gear is not meeting the engine correctly.",
+   "But corroded cables or a bad ground can cause the same symptoms.",
+   "Test the battery and cables before replacing a starter."
+  ],
+  "caption": "Problem of the Week: Starting and charging, part 5. Slow crank, single click, or grinding on a good battery can point to the starter. Bad cables can do the same, so test those first. Educational illustration.\n\nTechnical references:\nhttps://vehicleruns.com/maintenance-repair/starter-motor/symptoms/\nhttps://www.carparts.com/blog/how-to-fix-a-starter-diagnose-repair-and-replace-it-right-quickref/\n\n#MotorMD #CarBattery #CarCare #CarMaintenance",
+  "quick_caption": null,
+  "ep": 5
+ },
+ {
+  "id": "s6",
+  "series": "pow",
+  "title": "Cables and grounds",
+  "scenes": [
+   "Close-up of a car battery terminal covered in white and green corrosion, realistic macro",
+   "Engine ground strap cable bolted to a car body, realistic close-up in an engine bay"
+  ],
+  "vo": "Corroded terminals, loose clamps, and bad ground cables are some of the most overlooked causes of starting problems. Power has to flow out of the battery and back through the engine and body. If a connection has high resistance, the starter gets less power and cranks slowly or not at all. A voltage drop test finds the bad connection. Sometimes a clean, tight cable is the whole fix.",
+  "refs": [
+   "https://howtofixcar.com/symptoms/car-wont-start",
+   "https://www.carparts.com/blog/how-to-fix-a-starter-diagnose-repair-and-replace-it-right-quickref/"
+  ],
+  "sentences": [
+   "Corroded terminals, loose clamps, and bad ground cables are some of the most overlooked causes of starting problems.",
+   "Power has to flow out of the battery and back through the engine and body.",
+   "If a connection has high resistance, the starter gets less power and cranks slowly or not at all.",
+   "A voltage drop test finds the bad connection.",
+   "Sometimes a clean, tight cable is the whole fix."
+  ],
+  "caption": "Problem of the Week: Starting and charging, part 6. Corroded terminals and bad grounds are often overlooked. A voltage drop test finds them, and sometimes a clean, tight cable is the whole fix. Educational illustration.\n\nTechnical references:\nhttps://howtofixcar.com/symptoms/car-wont-start\nhttps://www.carparts.com/blog/how-to-fix-a-starter-diagnose-repair-and-replace-it-right-quickref/\n\n#MotorMD #CarBattery #CarCare #CarMaintenance",
+  "quick_caption": null,
+  "ep": 6
+ },
+ {
+  "id": "s7",
+  "series": "pow",
+  "title": "Jump-starting safely",
+  "scenes": [
+   "Two cars parked nose to nose with hoods open and red and black jumper cables connected, daytime, realistic",
+   "Black jumper cable clamp attached to an unpainted metal bolt on an engine, realistic close-up"
+  ],
+  "vo": "To jump-start safely, connect red to the dead battery's positive, then red to the good battery's positive. Connect black to the good battery's negative. Put the last black clamp on clean, unpainted metal on the dead car, away from the battery. That lowers the risk of a spark near battery gas. If it still only clicks or will not start, the problem is more than a dead battery.",
+  "refs": [
+   "https://www.aaa.com/autorepair/articles/how-to-jump-a-battery-and-get-yourself-back-on-the-road",
+   "https://www.midtronics.com/blog/whats-the-right-way-to-jump-start-a-battery/"
+  ],
+  "sentences": [
+   "To jump-start safely, connect red to the dead battery's positive, then red to the good battery's positive.",
+   "Connect black to the good battery's negative.",
+   "Put the last black clamp on clean, unpainted metal on the dead car, away from the battery.",
+   "That lowers the risk of a spark near battery gas.",
+   "If it still only clicks or will not start, the problem is more than a dead battery."
+  ],
+  "caption": "Problem of the Week: Starting and charging, part 7. Red to dead positive, red to good positive, black to good negative, last black to bare metal on the dead car, away from the battery. Still will not start? It is more than a dead battery. Educational illustration.\n\nTechnical references:\nhttps://www.aaa.com/autorepair/articles/how-to-jump-a-battery-and-get-yourself-back-on-the-road\nhttps://www.midtronics.com/blog/whats-the-right-way-to-jump-start-a-battery/\n\n#MotorMD #CarBattery #CarCare #CarMaintenance",
+  "quick_caption": null,
+  "ep": 7
+ }
+]
