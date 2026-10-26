@@ -217,3 +217,13 @@ Problem of the Week 4: Transmission
 7. Service versus rebuild: what testing comes first.
 
 Week 5 Problem of the Week idea: Suspension and steering. Topic of the Day ideas left: car shakes at idle, sweet smell inside the car, battery corrosion, overdue oil change warning signs, check engine light flashing, key fob not working, foggy windows that will not clear.
+
+## Visual format v2 (from Oct 26, 2026)
+
+Sam's direction (Oct 25): the background has to show what is being talked about, and every video needs something to watch.
+- One matched shot per sentence. The picture changes when the sentence changes, and each shot shows exactly the part, light, symptom, or test being described.
+- Each Topic of the Day opens with a 4-second motion clip (the Quick Take shares it). Problem of the Week episodes use matched stills with varied camera moves.
+- Cuts land on sentence boundaries, and camera moves vary (push in, pull out, pans). A thin progress bar runs across the top.
+- No generic highway or speedometer filler unless the sentence is about it.
+- Built with tools/build2.py. All posts from Oct 26 to Nov 4 were rebuilt in this format.
+- Track views from Oct 26 onward against the earlier format.
